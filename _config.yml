@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://nichohelmut.github.io"
 github_username:  nichohelmut
 facebook_username:  Nicholas Utikal
+linkedIn_username: "https://www.linkedin.com/in/nicholas-utikal-245b6495/"
 
 # Build settings
 markdown: kramdown
